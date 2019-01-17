@@ -1,0 +1,4 @@
+## Interface: 80000
+## Title: LootStat
+## SavedVariables: itemsTrack
+LootStat.lua
